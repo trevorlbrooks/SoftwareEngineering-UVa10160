@@ -1,0 +1,51 @@
++++ServiceStationBTL Test Run+++
+Testing the file serviceStationBTL.cpp
+
+Input File: unit_tests/ssIn01.txt   Output File: unit_tests/ssOut01.txt
+Passed
+
+Input File: unit_tests/ssIn02.txt   Output File: unit_tests/ssOut02.txt
+Passed
+
+Input File: unit_tests/ssIn03.txt   Output File: unit_tests/ssOut03.txt
+Passed
+
+Input File: unit_tests/ssIn04.txt   Output File: unit_tests/ssOut04.txt
+Passed
+
+Input File: unit_tests/ssIn05.txt   Output File: unit_tests/ssOut05.txt
+Passed
+
+Input File: unit_tests/ssIn06.txt   Output File: unit_tests/ssOut06.txt
+Passed
+
+Input File: unit_tests/ssIn07.txt   Output File: unit_tests/ssOut07.txt
+Passed
+
+Input File: unit_tests/ssIn08.txt   Output File: unit_tests/ssOut08.txt
+Passed
+
+Input File: unit_tests/ssIn09.txt   Output File: unit_tests/ssOut09.txt
+Passed
+
+Input File: unit_tests/ssIn10.txt   Output File: unit_tests/ssOut10.txt
+Passed
+
+Input File: unit_tests/ssIn11.txt   Output File: unit_tests/ssOut11.txt
+Passed
+
+Input File: unit_tests/ssIn12.txt   Output File: unit_tests/ssOut12.txt
+Passed
+
+Input File: unit_tests/ssIn13.txt   Output File: unit_tests/ssOut13.txt
+Passed
+
+Input File: unit_tests/ssIn14.txt   Output File: unit_tests/ssOut14.txt
+Passed
+
+Input File: unit_tests/ssIn15.txt   Output File: unit_tests/ssOut15.txt
+Passed
+
+All test cases passed.
+
+---ServiceStationBTL Test Run---

@@ -1,0 +1,31 @@
++++ServiceStationBTL Random Test Run+++
+Testing the file serviceStationBTL.cpp by Trevor Brooks
+
+Input File: testGenerator/ssBTL01in.txt
+Number of service stations: 14
+
+Input File: testGenerator/ssBTL02in.txt
+Number of service stations: 2 4
+
+Input File: testGenerator/ssBTL03in.txt
+Number of service stations: 1 5
+
+Input File: testGenerator/ssBTL04in.txt
+Number of service stations: 19
+
+Input File: testGenerator/ssBTL05in.txt
+Number of service stations: 5 22
+
+Input File: testGenerator/ssBTL06in.txt
+Number of service stations: 10 4 28 3
+
+Input File: testGenerator/ssBTL07in.txt
+Number of service stations: 1 2 3 2 3
+
+Input File: testGenerator/ssBTL08in.txt
+Number of service stations: 2
+
+Input File: testGenerator/ssBTL09in.txt
+Number of service stations: 3 12
+
+---ServiceStationBTL Random Test Run---
